@@ -1,0 +1,47 @@
+#custom-search-input{
+    padding: 3px;
+    border: solid 1px #E4E4E4;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+#custom-search-input input{
+    border: 0;
+    box-shadow: none;
+}
+
+#custom-search-input .glyphicon-search{
+    font-size: 23px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    border-bottom: solid 1px #E4E4E4;
+}
+
+.card-hotel {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 8px 2px;
+    border-radius: 16px;
+}
+
+.base {
+    background: -webkit-linear-gradient(100deg, #7cadf7, #ffffff, #ffffff);
+    background-repeat: no-repeat;
+}
+
+.base-height {
+    min-height: 1070px !important;
+}
+
+.image-search {
+    width: 200px;
+    height: 150px
+}
+  
+
+
+
